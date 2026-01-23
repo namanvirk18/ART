@@ -128,9 +128,10 @@ class LocalBackend(Backend):
             step: If provided, returns name for specific checkpoint.
                   If None, returns name for latest checkpoint (step 0 initially).
         """
+
         # For LocalBackend, vLLM always serves LoRA adapters with @step suffix
         # Default to step 0 when not specified (the initial checkpoint created at registration)
-        actual_step = step if step is not None else 0
+        actual_step = step if step is not None else self.__get_step(model)
         return f"{model.name}@{actual_step}"
 
     async def _get_service(self, model: TrainableModel) -> ModelService:
@@ -573,12 +574,17 @@ class LocalBackend(Backend):
                     f"Advanced step from {current_step} to {next_step} (no training occurred)"
                 )
 
-                # Register the renamed checkpoint as a new LoRA adapter
-                # so it's available for inference at the new step
-                from ..unsloth.service import UnslothService
+                try:
+                    # Register the renamed checkpoint as a new LoRA adapter
+                    # so it's available for inference at the new step
+                    from ..unsloth.service import UnslothService
 
-                if isinstance(service, UnslothService):
-                    await service.register_lora_for_step(next_step, next_checkpoint_dir)
+                    if isinstance(service, UnslothService):
+                        await service.register_lora_for_step(
+                            next_step, next_checkpoint_dir
+                        )
+                except ModuleNotFoundError:
+                    pass  # Unsloth is not installed
 
             # Yield metrics showing no groups were trainable
             # (the frontend will handle logging)
@@ -601,9 +607,9 @@ class LocalBackend(Backend):
             num_gradient_steps = int(
                 result.pop("num_gradient_steps", estimated_gradient_steps)
             )
-            assert num_gradient_steps == estimated_gradient_steps, (
-                f"num_gradient_steps {num_gradient_steps} != estimated_gradient_steps {estimated_gradient_steps}"
-            )
+            assert (
+                num_gradient_steps == estimated_gradient_steps
+            ), f"num_gradient_steps {num_gradient_steps} != estimated_gradient_steps {estimated_gradient_steps}"
             results.append(result)
             yield {**result, "num_gradient_steps": num_gradient_steps}
             pbar.update(1)
