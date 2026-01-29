@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="PATH_TO_YOUR_LOGO.png" width="120" />
+<a href="https://art.openpipe.ai"><picture>
+<img alt="ART logo" src="https://github.com/openpipe/art/raw/main/assets/ART_logo.png" width="160px">
+</picture></a>
 
-<h1>Agent Reinforcement Trainer</h1>
+<p align="center">
+  <h1>Agent Reinforcement Trainer</h1>
+</p>
 
 <p>
 Train multi-step agents for real-world tasks using GRPO.
