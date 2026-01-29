@@ -10,9 +10,8 @@
   </picture>
 </a>
 
-<h1 style="font-weight: 900;">
-  Agent Reinforcement Trainer
-</h1>
+# Agent Reinforcement Trainer
+
 <h2 style="font-weight: 700; margin-top: 0.1em;">
   Train multi-step agents for real-world tasks using GRPO
 </h2>
