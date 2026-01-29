@@ -4,13 +4,11 @@
 <img alt="ART logo" src="https://github.com/openpipe/art/raw/main/assets/ART_logo.png" width="160px">
 </picture></a>
 
-<p align="center">
+align="center">
   <h1>Agent Reinforcement Trainer</h1>
-</p>
 
-<p>
 Train multi-step agents for real-world tasks using GRPO.
-</p>
+
 
 <!-- ALL BADGES ON ONE LINE -->
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue)](CONTRIBUTING_URL)
