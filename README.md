@@ -1,5 +1,4 @@
 <div align="center">
-
 <a href="https://art.openpipe.ai">
   <picture>
     <img
