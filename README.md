@@ -9,11 +9,11 @@
   </picture>
 </a>
 
-<br><br>
+<h1>Agent Reinforcement Trainer</h1>
 
-<p style="font-size: 4em; font-weight: 900; margin: 0; line-height: 1.2;">Agent Reinforcement Trainer</p>
+<h2>Train multi-step agents for real-world tasks using GRPO</h2>
 
-<p style="font-size: 2em; font-weight: 500; margin: 20px 0;">Train multi-step agents for real-world tasks using GRPO</p>
+<br>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue)](CONTRIBUTING_URL)
 [![PyPI](https://img.shields.io/pypi/v/openpipe-art?label=pypi)](https://pypi.org/project/openpipe-art/)
@@ -23,6 +23,6 @@
 
 <br>
 
-<p style="font-size: 1.1em;"><strong>ART</strong> is an open-source RL framework that improves agent reliability by letting LLMs learn from experience, with an ergonomic way to integrate GRPO into any Python app.</p>
+<p><strong>ART</strong> is an open-source RL framework that improves agent reliability by letting LLMs learn from experience, with an ergonomic way to integrate GRPO into any Python app.</p>
 
 </div>
