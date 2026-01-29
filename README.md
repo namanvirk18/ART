@@ -9,13 +9,11 @@
   </picture>
 </a>
 
-<br><br>
-
-<h1 style="border-bottom: none; padding-bottom: 0;">Agent Reinforcement Trainer</h1>
-
-<h2 style="border-bottom: none; padding-bottom: 0;">Train multi-step agents for real-world tasks using GRPO</h2>
-
 <br>
+
+<p style="font-size: 3em; font-weight: 900; margin: 20px 0 10px 0;">Agent Reinforcement Trainer</p>
+
+<p style="font-size: 1.5em; font-weight: 500; margin: 0 0 20px 0;">Train multi-step agents for real-world tasks using GRPO</p>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue)](CONTRIBUTING_URL)
 [![PyPI](https://img.shields.io/pypi/v/openpipe-art?label=pypi)](https://pypi.org/project/openpipe-art/)
