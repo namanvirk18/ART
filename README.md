@@ -9,8 +9,11 @@
   </picture>
 </a>
 
-# Agent Reinforcement Trainer
-## Train multi-step agents for real-world tasks using GRPO
+<h1>Agent Reinforcement Trainer</h1>
+
+<h2>Train multi-step agents for real-world tasks using GRPO</h2>
+
+<br>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue)](CONTRIBUTING_URL)
 [![PyPI](https://img.shields.io/pypi/v/openpipe-art?label=pypi)](https://pypi.org/project/openpipe-art/)
@@ -18,6 +21,12 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/EceeVdhpxD)
 [![Documentation](https://img.shields.io/badge/Documentation-orange?logo=gitbook&logoColor=white)](https://art.openpipe.ai)
 
+<br>
+
 <p style="max-width: 900px; margin: 0 auto; text-align: left;"><strong>ART</strong> is an open-source RL framework that improves agent reliability by letting LLMs learn from experience, with an ergonomic way to integrate GRPO into any Python app.</p>
+
+<br>
+
+<img src="https://github.com/namanvirk18/ART/blob/main/assets/ART-full-gif.gif?raw=true" alt="ART Demo" width="800">
 
 </div>
