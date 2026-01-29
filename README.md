@@ -10,11 +10,11 @@
   </picture>
 </a>
 
-<h1>
+<h1 style="font-weight: 800; margin-bottom: 0.2em;">
   Agent Reinforcement Trainer
 </h1>
 
-<p style="font-size: 1.15em; margin-top: 0.25em;">
+<p style="font-size: 1.1em; font-weight: 600; margin-top: 0;">
   Train multi-step agents for real-world tasks using GRPO
 </p>
 
@@ -37,4 +37,3 @@
 </p>
 
 </div>
-**ART** is an open-source RL framework that improves agent reliability by letting LLMs learn from experience, with an ergonomic way to integrate GRPO into any Python app.
