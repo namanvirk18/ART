@@ -12,9 +12,7 @@
 
 # Agent Reinforcement Trainer
 
-<h2 style="font-weight: 700; margin-top: 0.1em;">
-  Train multi-step agents for real-world tasks using GRPO
-</h2>
+## Train multi-step agents for real-world tasks using GRPO
 
 <p>
   <a href="CONTRIBUTING_URL"><img src="https://img.shields.io/badge/PRs-welcome-blue"></a>
