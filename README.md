@@ -9,9 +9,11 @@
   </picture>
 </a>
 
-<h1>Agent Reinforcement Trainer</h1>
+<br><br>
 
-<h2>Train multi-step agents for real-world tasks using GRPO</h2>
+<h1 style="border-bottom: none; padding-bottom: 0;">Agent Reinforcement Trainer</h1>
+
+<h2 style="border-bottom: none; padding-bottom: 0;">Train multi-step agents for real-world tasks using GRPO</h2>
 
 <br>
 
@@ -30,11 +32,3 @@
 <img src="https://github.com/namanvirk18/ART/blob/main/assets/ART-full-gif.gif?raw=true" alt="ART Demo" width="800">
 
 </div>
-
-<style>
-div[align="center"] h1,
-div[align="center"] h2 {
-  border-bottom: none !important;
-  padding-bottom: 0 !important;
-}
-</style>
