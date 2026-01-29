@@ -23,10 +23,18 @@
 
 <br>
 
-<p style="max-width: 900px; margin: 0 auto; text-align: left;"><strong>ART</strong> is an open-source RL framework that improves agent reliability by letting LLMs learn from experience, with an ergonomic way to integrate GRPO into any Python app.</p>
+<p style="max-width: 900px; margin: 0 auto; text-align: left;">Open-source RL framework that trains more reliable agents through experience-based learning with easy GRPO integration.</p>
 
 <br>
 
 <img src="https://github.com/namanvirk18/ART/blob/main/assets/ART-full-gif.gif?raw=true" alt="ART Demo" width="800">
 
 </div>
+
+<style>
+div[align="center"] h1,
+div[align="center"] h2 {
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
+}
+</style>
