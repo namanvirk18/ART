@@ -6,7 +6,7 @@
 
 <h1>Agent Reinforcement Trainer</h1>
 
-Train multi-step agents for real-world tasks using GRPO.
+<h2>Train multi-step agents for real-world tasks using GRPO</h2>
 
 
 <!-- ALL BADGES ON ONE LINE -->
@@ -22,4 +22,4 @@ Train multi-step agents for real-world tasks using GRPO.
 
 ## 🚀 W&B Training: Serverless RL
 
-**W&B Training (Serverless RL)** is the first publicly available service for flexibly training models with reinforcement learning. It manages your training and inference infrastructure automatically, letting you focus on defining your data, environment and reward function—leading to faster feedback cycles, lower costs, and far less DevOps.
+**ART is an open-source RL framework that improves agent reliability by letting LLMs learn from experience, with an ergonomic way to integrate GRPO into any Python app.
