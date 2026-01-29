@@ -10,13 +10,13 @@
   </picture>
 </a>
 
-<h1 style="font-weight: 900; letter-spacing: -0.5px; margin-bottom: 0.15em;">
+<h1 style="font-weight: 900;">
   Agent Reinforcement Trainer
 </h1>
 
-<p style="font-size: 1.1em; font-weight: 700; margin-top: 0.1em;">
+<h2 style="font-weight: 700; margin-top: 0.1em;">
   Train multi-step agents for real-world tasks using GRPO
-</p>
+</h2>
 
 <p>
   <a href="CONTRIBUTING_URL"><img src="https://img.shields.io/badge/PRs-welcome-blue"></a>
