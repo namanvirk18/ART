@@ -14,7 +14,7 @@
   Agent Reinforcement Trainer
 </h1>
 
-<p style="font-size: 1.1em; font-weight: 600; margin-top: 0.1em;">
+<p style="font-size: 1.1em; font-weight: 700; margin-top: 0.1em;">
   Train multi-step agents for real-world tasks using GRPO
 </p>
 
