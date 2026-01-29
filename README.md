@@ -10,20 +10,16 @@
   </picture>
 </a>
 
-# Agent Reinforcement Trainer
-
-## Train multi-step agents for real-world tasks using GRPO
-
-<p>
-  <a href="CONTRIBUTING_URL"><img src="https://img.shields.io/badge/PRs-welcome-blue"></a>
-  <a href="https://pypi.org/project/openpipe-art/"><img src="https://img.shields.io/pypi/v/openpipe-art?label=pypi"></a>
-  <a href="COLAB_URL"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
-  <a href="https://discord.gg/EceeVdhpxD"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"></a>
-  <a href="https://art.openpipe.ai"><img src="https://img.shields.io/badge/Documentation-orange?logo=gitbook&logoColor=white"></a>
-</p>
-
 </div>
 
-<p style="font-weight: 600;">
-<strong>ART</strong> is an open-source RL framework that improves agent reliability by letting LLMs learn from experience, with an ergonomic way to integrate GRPO into any Python app.
-</p>
+# Agent Reinforcement Trainer
+
+## **Train multi-step agents for real-world tasks using GRPO**
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue)](CONTRIBUTING_URL)
+[![PyPI](https://img.shields.io/pypi/v/openpipe-art?label=pypi)](https://pypi.org/project/openpipe-art/)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](COLAB_URL)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/EceeVdhpxD)
+[![Documentation](https://img.shields.io/badge/Documentation-orange?logo=gitbook&logoColor=white)](https://art.openpipe.ai)
+
+**ART** is an open-source RL framework that improves agent reliability by letting LLMs learn from experience, with an ergonomic way to integrate GRPO into any Python app.
