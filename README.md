@@ -9,8 +9,8 @@
   </picture>
 </a>
 
-<h1>Agent Reinforcement Trainer</h1>
-<h2>Train multi-step agents for real-world tasks using GRPO</h2>
+# Agent Reinforcement Trainer
+## Train multi-step agents for real-world tasks using GRPO
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue)](CONTRIBUTING_URL)
 [![PyPI](https://img.shields.io/pypi/v/openpipe-art?label=pypi)](https://pypi.org/project/openpipe-art/)
