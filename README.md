@@ -4,8 +4,7 @@
 <img alt="ART logo" src="https://github.com/openpipe/art/raw/main/assets/ART_logo.png" width="160px">
 </picture></a>
 
-align="center">
-  <h1>Agent Reinforcement Trainer</h1>
+<h1>Agent Reinforcement Trainer</h1>
 
 Train multi-step agents for real-world tasks using GRPO.
 
