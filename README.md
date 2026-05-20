@@ -4,7 +4,7 @@
     <img
       alt="ART logo"
       src="https://github.com/openpipe/art/raw/main/assets/ART_logo.png"
-      width="90"
+      width="70"
     >
   </picture>
 </a>
