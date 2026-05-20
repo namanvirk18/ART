@@ -12,6 +12,7 @@
 # Agent Reinforcement Trainer
 
 ## Train multi-step agents for real-world tasks using GRPO
+
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue)](CONTRIBUTING_URL)
 [![PyPI](https://img.shields.io/pypi/v/openpipe-art?label=pypi)](https://pypi.org/project/openpipe-art/)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](COLAB_URL)
@@ -20,6 +21,10 @@
 
 <p style="max-width: 900px; margin: 0 auto; text-align: left;">Open-source RL framework that trains more reliable agents through experience-based learning with easy GRPO integration.</p>
 
-<img src="https://github.com/namanvirk18/ART/blob/main/assets/ART-full-gif.gif?raw=true" alt="ART Demo" width="800">
-
 </div>
+
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
