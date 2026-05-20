@@ -1,17 +1,16 @@
 <div align="center">
 <a href="https://art.openpipe.ai">
-  <picture>
-    <img
-      alt="ART logo"
-      src="https://github.com/openpipe/art/raw/main/assets/ART_logo.png"
-      width="70"
-    >
-  </picture>
+  <img
+    alt="ART logo"
+    src="https://github.com/openpipe/art/raw/main/assets/ART_logo.png"
+    width="70"
+    style="margin-bottom: -10px;"
+  >
 </a>
 
-## Agent Reinforcement Trainer
+<h2 style="margin-top: 0;">Agent Reinforcement Trainer</h2>
 
-#### Train multi-step agents for real-world tasks using GRPO
+<h4 style="margin-top: -10px;">Train multi-step agents for real-world tasks using GRPO</h4>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue)](CONTRIBUTING_URL)
 [![PyPI](https://img.shields.io/pypi/v/openpipe-art?label=pypi)](https://pypi.org/project/openpipe-art/)
