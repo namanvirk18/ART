@@ -19,7 +19,7 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/EceeVdhpxD)
 [![Documentation](https://img.shields.io/badge/Documentation-orange?logo=gitbook&logoColor=white)](https://art.openpipe.ai)
 
-<p style="max-width: 900px; margin: 0 auto; text-align: left;">Open-source RL framework training reliable agents through experience-based learning with GRPO..</p>
+<p style="max-width: 900px; margin: 0 auto; text-align: left;">Open-source RL framework training reliable agents through experience-based learning with GRPO.</p>
 
 </div>
 
